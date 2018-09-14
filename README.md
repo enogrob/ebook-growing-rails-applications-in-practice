@@ -30,7 +30,7 @@ New rules for Rails
 [ ] Understanding the ActiveRecord lifecycle
 [ ] The true API of ActiveRecord models
 4. User interactions without a database
-[ ] Writing a better sign in form
+[x] Writing a better sign in form
 [ ] Building PlainModel
 [ ] Refactoring controllers from hell
 Creating a system for growth
