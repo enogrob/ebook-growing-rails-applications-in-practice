@@ -27,10 +27,10 @@ New rules for Rails
 [x] A better controller implementation
 [x] Why have controllers at all?
 3. Relearning ActiveRecord
-[ ] Understanding the ActiveRecord lifecycle
-[ ] The true API of ActiveRecord models
+[x] Understanding the ActiveRecord lifecycle
+[x] The true API of ActiveRecord models
 4. User interactions without a database
-[x] Writing a better sign in form
+[ ] Writing a better sign in form
 [ ] Building PlainModel
 [ ] Refactoring controllers from hell
 Creating a system for growth
