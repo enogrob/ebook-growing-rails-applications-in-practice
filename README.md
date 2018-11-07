@@ -42,11 +42,11 @@ Creating a system for growth
 [ ] A modest approach to form models
 [ ] More convenience for form models
 7. Extracting service objects
-[ ] Example
-[ ] Did we just move code around?
+[x] Example
+[x] Did we just move code around?
 8. Organizing large codebases with namespaces
-[ ] Real-world example
-[ ] Use the same structure everywhere
+[x] Real-world example
+[x] Use the same structure everywhere
 9. Taming stylesheets
 [ ] How CSS grows out of control
 [ ] An API for your stylesheets
@@ -58,16 +58,16 @@ Creating a system for growth
 [ ] Pragmatic BEM
 Building applications to last
 10. On following fashions
-[ ] Before/after code comparisons
-[ ] Understanding trade-offs
-[ ] The value of consistency
+[x] Before/after code comparisons
+[x] Understanding trade-offs
+[x] The value of consistency
 11. Surviving the upgrade pace of Rails
-[ ] Gems increase the cost of upgrades
-[ ] Upgrades are when you pay for monkey patches
-[ ] Don’t live on the bleeding edge
+[x] Gems increase the cost of upgrades
+[x] Upgrades are when you pay for monkey patches
+[x] Don’t live on the bleeding edge
 12. Owning your stack
-[ ] Accepting storage services into your stack
-[ ] Maxing out your current toolbox
+[x] Accepting storage services into your stack
+[x] Maxing out your current toolbox
 13. The value of tests
 [ ] Choosing test types effectively
 [ ] How many tests are too many?
